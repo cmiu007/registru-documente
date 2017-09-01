@@ -25,3 +25,9 @@
 
 7. Mecanism de securitate flexibil şi performant ce permite control total asupra funcţiilor aplicaţiei: utilizatori, permisiuni, jurnale de activitate.
 Control asupra tuturor funcţiilor aplicaţiei.
+
+## Propuneri backend
+http://michal.karzynski.pl/blog/2016/06/19/building-beautiful-restful-apis-using-flask-swagger-ui-flask-restplus/
+https://www.andreagrandi.it/2017/08/17/creating-a-production-ready-api-with-python-and-django-rest-framework-part-4/
+https://github.com/falconry/falcon
+http://www.hug.rest/
